@@ -12,4 +12,7 @@
     <string name="login">Login</string>
     <string name="new_account">Create new account</string>
     <string name="welcome">Welcome to Meal Monkey</string>
+    <string name="web_view">Web View</string>
+    <string name="play_song">Play a song</string>
+    <string name="play_video">Play a video</string>
 </resources>
